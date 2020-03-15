@@ -12,5 +12,5 @@ def display_board(board)
   puts row2
   puts line
   puts row3
-  
+
 end
